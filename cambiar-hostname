@@ -3,3 +3,5 @@ sudo hostname buga-pe-rhel8
 sudo vi /etc/hostname
 sudo vi /etc/hosts
 #cambiar el nuevo nombre en 127-0-0-1
+
+#recordando vim esc + :x grabar y salir -- :w grabar sin salir
