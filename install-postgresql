@@ -1,0 +1,1 @@
+yum install postgresql-server postgresql-contrib
