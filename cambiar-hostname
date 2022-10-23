@@ -1,0 +1,5 @@
+#https://www.cyberciti.biz/faq/rhel-8-change-hostname-computer-name-command/
+sudo hostname buga-pe-rhel8
+sudo vi /etc/hostname
+sudo vi /etc/hosts
+#cambiar el nuevo nombre en 127-0-0-1
