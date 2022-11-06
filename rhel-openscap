@@ -1,6 +1,7 @@
-sudo yum install openscap-scanner
-sudo yum install scap-workbench
-sudo yum install scap-security-guide
+#con el usuario root en rhel ejecutar los siguientes comandos
+yum install openscap-scanner
+yum install scap-workbench
+yum install scap-security-guide
 
 #ejecutar openscap en rhel
 scap-workbench
