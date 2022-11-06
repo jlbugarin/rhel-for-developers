@@ -2,6 +2,6 @@ sudo yum install openscap-scanner
 sudo yum install scap-workbench
 sudo yum install scap-security-guide
 
-ejecutar openscap en rhel
+#ejecutar openscap en rhel
 scap-workbench
 
