@@ -7,4 +7,4 @@ dnf install podman buildah skopeo
 
 #despues de la instalacion podemos ejecutar imagenes
 
-podman run –it registry.access.redhat.com/ubi9/ubi bash
+podman run -it registry.access.redhat.com/ubi9/ubi bash
