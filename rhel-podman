@@ -1,3 +1,6 @@
 #si el servidor no esta registrado
-sudo subscription-manager register --auto-attach
+subscription-manager refresh
+subscription-manager repos
+yum update
+
 dnf install podman buildah skopeo
