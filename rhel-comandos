@@ -7,3 +7,6 @@ sudo vi /etc/services
 infinispan 11222/tcp
 
 sudo iptables -L
+
+sudo iptables -A INPUT -p tcp --dport 11222 -j ACCEPT
+
