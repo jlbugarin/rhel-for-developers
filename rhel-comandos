@@ -1,3 +1,4 @@
 --agregar puertos en RHEL:
 sudo firewall-cmd --permanent --add-port=11222/tcp
 sudo firewall-cmd --reload
+sudo firewall-cmd --list-all
