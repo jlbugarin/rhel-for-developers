@@ -10,3 +10,6 @@ sudo iptables -L
 
 sudo iptables -A INPUT -p tcp --dport 11222 -j ACCEPT
 
+sudo alternatives --config java
+
+
